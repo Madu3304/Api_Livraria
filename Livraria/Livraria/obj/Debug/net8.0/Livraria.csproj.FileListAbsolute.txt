@@ -1,0 +1,7 @@
+C:\Users\maria.souza\Documents\estudos\ApiTeste\ApiLivraria\Livraria\Livraria\obj\Debug\net8.0\Livraria.csproj.AssemblyReference.cache
+C:\Users\maria.souza\Documents\estudos\ApiTeste\ApiLivraria\Livraria\Livraria\obj\Debug\net8.0\Livraria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.souza\Documents\estudos\ApiTeste\ApiLivraria\Livraria\Livraria\obj\Debug\net8.0\Livraria.AssemblyInfoInputs.cache
+C:\Users\maria.souza\Documents\estudos\ApiTeste\ApiLivraria\Livraria\Livraria\obj\Debug\net8.0\Livraria.AssemblyInfo.cs
+C:\Users\maria.souza\Documents\estudos\ApiTeste\ApiLivraria\Livraria\Livraria\obj\Debug\net8.0\Livraria.csproj.CoreCompileInputs.cache
+C:\Users\maria.souza\Documents\estudos\ApiTeste\ApiLivraria\Livraria\Livraria\obj\Debug\net8.0\Livraria.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\maria.souza\Documents\estudos\ApiTeste\ApiLivraria\Livraria\Livraria\obj\Debug\net8.0\Livraria.MvcApplicationPartsAssemblyInfo.cache
